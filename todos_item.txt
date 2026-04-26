@@ -1,8 +1,5 @@
-Make a secure VPN
-Show the data
-Master Python
 Build a website
-My new todo is added
+My new to-do is added
 Hack the internet
 Create a clean code
-Collect the data
+Find the data
